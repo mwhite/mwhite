@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @mwhite.  I'm a software engineer who has also been an entrepreneur.
-- 👀 I co-founded [@getchabooks](http://github.com/getchabooks).  I'm currently working on a startup in the consumer genealogy space.
-- 🌱 You may be interested in some libraries I've released or am working on:
+- Hi, I’m @mwhite.  I'm a software engineer who has also been an entrepreneur.
+- I co-founded [@getchabooks](http://github.com/getchabooks).  
+- I'm currently working on a startup in the consumer genealogy space.
+- You may be interested in some libraries I've released or am working on:
     - [@mwhite/react-jsonapi](http://github.com/mwhite/react-jsonapi) - JSON API data loading for React
     - [@mwhite/JSONAlchemy](http://github.com/mwhite/JSONAlchemy) - SQL views of data stored in a Postgres JSON column
 
