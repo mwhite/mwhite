@@ -1,4 +1,4 @@
-- Hi, I’m @mwhite.  I'm a software engineer who has also been an entrepreneur.
+- Hi, I’m @mwhite.  I'm an entrepreneurial software engineer.
 - I co-founded [@getchabooks](http://github.com/getchabooks).  
 - I'm currently working on a startup in the consumer genealogy space.
 - You may be interested in some libraries I've released or am working on:
